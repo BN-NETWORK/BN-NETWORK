@@ -4,6 +4,10 @@
 
 The project focuses on DNS management, latency testing, network diagnostics, connection stability, and providing a simple and modern interface for everyday users and gamers.
 
+## 🔗 Official Links
+
+- 📸 [Instagram — BN NETWORK](https://www.instagram.com/bn.dns.optimizer/)
+- 💬 [Telegram — BN NETWORK](https://t.me/bn1network)
 ---
 
 ## ✨ Features
